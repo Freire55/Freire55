@@ -6,8 +6,6 @@
 
 ## Projects Portfolio
 
-## 🚀 Projects Portfolio
-
 <table>
   <tr>
     <th>Class / Course</th>
@@ -18,42 +16,42 @@
   <tr>
     <td><strong>LDTS</strong></td>
     <td><a href="https://github.com/Freire55/Space-Invaders">Space Invaders</a></td>
-    <td>Short description here</td>
+    <td>Classic arcade game Space Invaders implementation in Java.</td>
   </tr>
 
   <tr>
     <td><strong>LTW</strong></td>
     <td><a href="https://github.com/Freire55/Freelancing-Web-App">Freelancing Web App</a></td>
-    <td>Short description here</td>
+    <td>Web App developed using PHP, HTML, CSS and JavaScript for hiring different freelancers for any kind of job </td>
   </tr>
 
   <tr>
     <td><strong>RCOM</strong></td>
     <td><a href="https://github.com/Freire55/Packet-Transfer">Packet Transfer</a></td>
-    <td>Short description here</td>
+    <td>Tool that reads .gif files and converts them into network data packets for transmission. </td>
   </tr>
 
   <tr>
     <td><strong>LCOM</strong></td>
-    <td><a href="https://github.com/Freire55/">Project Name</a></td>
-    <td>Short description here</td>
+    <td><a href="https://github.com/Freire55/Type Racer">Type Racer</a></td>
+    <td>Basic typing speed game implementation with text input and timing features</td>
   </tr>
 
   <!-- DA with rowspan -->
   <tr>
     <td rowspan="2"><strong>DA</strong></td>
     <td><a href="https://github.com/Freire55/Knapsack-Problem">Knapsack Problem</a></td>
-    <td>Short description here</td>
+    <td>4 different ways to solve the 0/1 knapsack problem: Brute-Force, Dynamic Programming, Greedy and ILP </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Freire55/Route-Planning-Tool">Route Planning Tool</a></td>
-    <td>Short description here</td>
+    <td>Dijsktra Algortihm to find the shortest path between two points with an interface </td>
   </tr>
 
   <tr>
     <td><strong>ES</strong></td>
     <td><a href="https://github.com/Freire55/UPark">UPark</a></td>
-    <td>Short description here</td>
+    <td>University parking management system displaying real-time availability of spots</td>
   </tr>
 </table>
 
