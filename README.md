@@ -6,12 +6,54 @@
 
 ## Projects Portfolio
 
-| Class / Course | Project Name | Description |
-|----------------|--------------|-------------|
-| **LDTS** | [Project Name](#) | Short description here |
-| **LTW** | [Project Name](#) | Short description here |
-| **RCOM** | [Project Name](#) | Short description here |
-| **LCOM** | [Project Name](#) | Short description here |
-| **DA** | [Project 1 Name](#) | Short description here |
-| **DA** | [Project 2 Name](#) | Short description here |
-| **ES** | [Project Name](#) | Short description here |
+## 🚀 Projects Portfolio
+
+<table>
+  <tr>
+    <th>Class / Course</th>
+    <th>Project Name</th>
+    <th>Description</th>
+  </tr>
+
+  <tr>
+    <td><strong>LDTS</strong></td>
+    <td><a href="#">Project Name</a></td>
+    <td>Short description here</td>
+  </tr>
+
+  <tr>
+    <td><strong>LTW</strong></td>
+    <td><a href="#">Project Name</a></td>
+    <td>Short description here</td>
+  </tr>
+
+  <tr>
+    <td><strong>RCOM</strong></td>
+    <td><a href="#">Project Name</a></td>
+    <td>Short description here</td>
+  </tr>
+
+  <tr>
+    <td><strong>LCOM</strong></td>
+    <td><a href="#">Project Name</a></td>
+    <td>Short description here</td>
+  </tr>
+
+  <!-- DA with rowspan -->
+  <tr>
+    <td rowspan="2"><strong>DA</strong></td>
+    <td><a href="#">Project 1 Name</a></td>
+    <td>Short description here</td>
+  </tr>
+  <tr>
+    <td><a href="#">Project 2 Name</a></td>
+    <td>Short description here</td>
+  </tr>
+
+  <tr>
+    <td><strong>ES</strong></td>
+    <td><a href="#">Project Name</a></td>
+    <td>Short description here</td>
+  </tr>
+</table>
+
