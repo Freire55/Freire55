@@ -58,10 +58,10 @@
 
 ## Mobile Applications
 
-| Project | Description | Key Features | Technologies | Status | Repository |
-|--------|-------------|--------------|--------------|--------|------------|
-| **Bet Tracking App** | Mobile application for tracking and analyzing sports and casino betting activity, focused on balance control and performance analysis. | • Sports & casino bet tracking<br>• Balance & bankroll management<br>• Win/Loss ratio tracking<br>• Betting history with filters<br>• Statistical analysis & charts<br>• House and game management<br>• Date range analysis | React Native (Expo)<br>TypeScript<br>SQLite (expo-sqlite)<br>NativeWind (Tailwind CSS)<br>React Navigation<br>React Native Chart Kit | ✅ Active | [View Repo](https://github.com/Freire55/Bet_Tracking_App) |
-| **Balance App** | Personal finance tracking app designed to complement the Bet Tracking App, providing an overview of expenses, income, and balance evolution. | • Expense & income tracking<br>• Budget management<br>• Monthly & yearly summaries<br>• Visual reports & charts<br>• Automatic sync with Bet Tracking App (local DB)<br>• Data export/import | React Native (Expo)<br>TypeScript<br>SQLite (expo-sqlite)<br>NativeWind (Tailwind CSS)<br>React Navigation<br>Data visualization | 🚧 In Development | [View Repo](https://github.com/Freire55/Balance_App) |
+| Project | Description | Key Features | Status | Repository |
+|--------|-------------|--------------|--------|------------|
+| **Bet Tracking App** | Mobile application for tracking and analyzing sports and casino betting activity, focused on balance control and performance analysis. | • Sports & casino bet tracking<br>• Balance & bankroll management<br>• Win/Loss ratio tracking<br>• Betting history with filters<br>• Statistical analysis & charts<br>• House and game management<br>• Date range analysis | ✅ Active | [View Repo](https://github.com/Freire55/Bet_Tracking_App) |
+| **Balance App** | Personal finance tracking app designed to complement the Bet Tracking App, providing an overview of expenses, income, and balance evolution. | • Expense & income tracking<br>• Budget management<br>• Monthly & yearly summaries<br>• Visual reports & charts<br>• Automatic sync with Bet Tracking App (local DB)<br>• Data export/import | 🚧 In Development | [View Repo](https://github.com/Freire55/Balance_App) |
 
 ---
 
