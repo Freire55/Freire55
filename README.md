@@ -15,29 +15,28 @@
 
   <tr>
     <td><strong>LDTS</strong></td>
-    <td><a href="https://github.com/Freire55/Space-Invaders">Space Invaders</a></td>
+    <td><a href="https://github.com/Freire55/Space-Invaders-Clone">Space Invaders</a></td>
     <td>Classic arcade game Space Invaders implementation in Java.</td>
   </tr>
 
   <tr>
     <td><strong>LTW</strong></td>
-    <td><a href="https://github.com/Freire55/Freelancing-Web-App">Freelancing Web App</a></td>
+    <td><a href="https://github.com/Freire55/Freelancing-Web-App-Clone">Freelancing Web App</a></td>
     <td>Web App developed using PHP, HTML, CSS and JavaScript for hiring different freelancers for any kind of job </td>
   </tr>
 
   <tr>
     <td><strong>RCOM</strong></td>
-    <td><a href="https://github.com/Freire55/Packet-Transfer">Packet Transfer</a></td>
+    <td><a href="https://github.com/Freire55/Packets-Transfer-Clone">Packet Transfer</a></td>
     <td>Tool that reads .gif files and converts them into network data packets for transmission. </td>
   </tr>
 
   <tr>
     <td><strong>LCOM</strong></td>
-    <td><a href="https://github.com/Freire55/Type Racer">Type Racer</a></td>
+    <td><a href="https://github.com/Freire55/Type-Racer">Type Racer</a></td>
     <td>Basic typing speed game implementation with text input and timing features</td>
   </tr>
 
-  <!-- DA with rowspan -->
   <tr>
     <td rowspan="2"><strong>DA</strong></td>
     <td><a href="https://github.com/Freire55/Knapsack-Problem">Knapsack Problem</a></td>
