@@ -66,7 +66,6 @@
 ---
 
 ## Project Integration
-## Project Integration
 
 These two applications are designed to work together on the same device for **comprehensive financial management**.  
 The **Balance App can import betting transactions** from the Bet Tracking App, providing a unified financial overview.
