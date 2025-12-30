@@ -58,10 +58,10 @@
 
 ## Mobile Applications
 
-| Project | Description | Key Features | Status | Repository |
-|--------|-------------|--------------|--------|------------|
-| **Bet Tracking App** | Mobile application for tracking and analyzing sports and casino betting activity, focused on balance control and performance analysis. | • Sports & casino bet tracking<br>• Balance & bankroll management<br>• Win/Loss ratio tracking<br>• Betting history with filters<br>• Statistical analysis & charts<br>• House and game management<br>• Date range analysis | ✅ Active | [View Repo](https://github.com/Freire55/Bet_Tracking_App) |
-| **Balance App** | Personal finance tracking app designed to complement the Bet Tracking App, providing an overview of expenses, income, and balance evolution. | • Expense & income tracking<br>• Budget management<br>• Monthly & yearly summaries<br>• Visual reports & charts<br>• Automatic sync with Bet Tracking App (local DB)<br>• Data export/import | 🚧 In Development | [View Repo](https://github.com/Freire55/Balance_App) |
+| Project | Description |Repository |
+|--------|-------------------------|
+| **Bet Tracking App** | Mobile application for tracking and analyzing sports and casino betting activity, focused on balance control and performance analysis. | [View Repo](https://github.com/Freire55/Bet_Tracking_App) |
+| **Balance App** | Personal finance tracking app designed to complement the Bet Tracking App, providing an overview of expenses, income, and balance evolution. | [View Repo](https://github.com/Freire55/Balance_App) |
 
 ---
 
@@ -73,26 +73,3 @@ The **Balance App can import betting transactions** from the Bet Tracking App, p
 > ⚠️ Currently uses local SQLite databases with data export/import functionality.  
 > 🚀 **Planned Enhancement**: Cloud database integration (Supabase/Firebase) for real-time synchronization across both apps.
 ---
-
-## Technologies Overview
-
-- **Framework**: React Native (Expo)
-- **Language**: TypeScript, JavaScript
-- **Styling**: NativeWind (Tailwind CSS)
-- **Database**: SQLite (local device storage)
-- **Navigation**: React Navigation
-- **Charts & Visualization**: React Native Chart Kit, SVG
-- **State Management**: React Hooks, Async Storage
-  
-**Future Integration**: PostgreSQL/Firestore (for cloud sync)
-
-
----
-
-## Development Focus
-
-- Clean and maintainable code architecture
-- Offline-first mobile design
-- Intuitive and responsive user experience
-- Data persistence and integrity
-- Modular structure to support future backend or cloud sync
