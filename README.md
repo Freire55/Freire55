@@ -56,9 +56,17 @@
 
 # Personal Projects
 
+## Machine Learning
+
+| Project | Description | Repository |
+|--------|-------------------------|------------|
+| **NBA Game Outcome Prediction** | End-to-end machine learning pipeline for predicting NBA game outcomes using leak-free feature engineering, rolling historical statistics, Elo ratings, fatigue modeling, and an ensemble of Logistic Regression and XGBoost. Achieved **66.0% accuracy** on completely unseen NBA games (2021+) using a strict chronological evaluation pipeline. | [View Repo](https://github.com/Freire55/nba-prediction-model) |
+
+---
+
 ## Mobile Applications
 
-| Project | Description |Repository |
+| Project | Description | Repository |
 |--------|-------------------------|------------|
 | **Bet Tracking App** | Mobile application for tracking and analyzing sports and casino betting activity, focused on balance control and performance analysis. | [View Repo](https://github.com/Freire55/Bet_Tracking_App) |
 | **Balance App** | Personal finance tracking app designed to complement the Bet Tracking App, providing an overview of expenses, income, and balance evolution. | [View Repo](https://github.com/Freire55/Balance_App) |
@@ -72,4 +80,3 @@ The **Balance App can import betting transactions** from the Bet Tracking App, p
 
 > ⚠️ Currently uses local SQLite databases with data export/import functionality.  
 > 🚀 **Planned Enhancement**: Cloud database integration (Supabase/Firebase) for real-time synchronization across both apps.
----
