@@ -69,14 +69,5 @@
 | Project | Description | Repository |
 |--------|-------------------------|------------|
 | **Bet Tracking App** | Mobile application for tracking and analyzing sports and casino betting activity, focused on balance control and performance analysis. | [View Repo](https://github.com/Freire55/Bet_Tracking_App) |
-| **Balance App** | Personal finance tracking app designed to complement the Bet Tracking App, providing an overview of expenses, income, and balance evolution. | [View Repo](https://github.com/Freire55/Balance_App) |
+| **Balance App** | Personal finance tracking app that provides an overview of expenses, income, and balance evolution. | [View Repo](https://github.com/Freire55/Balance_App) |
 
----
-
-## Project Integration
-
-These two applications are designed to work together on the same device for **comprehensive financial management**.  
-The **Balance App can import betting transactions** from the Bet Tracking App, providing a unified financial overview.
-
-> ⚠️ Currently uses local SQLite databases with data export/import functionality.  
-> 🚀 **Planned Enhancement**: Cloud database integration (Supabase/Firebase) for real-time synchronization across both apps.
